@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/comicapp/static/css/main.9c079093.css",
+    "main.js": "/comicapp/static/js/main.da70d96f.js",
+    "static/js/787.79b19336.chunk.js": "/comicapp/static/js/787.79b19336.chunk.js",
+    "index.html": "/comicapp/index.html",
+    "main.9c079093.css.map": "/comicapp/static/css/main.9c079093.css.map",
+    "main.da70d96f.js.map": "/comicapp/static/js/main.da70d96f.js.map",
+    "787.79b19336.chunk.js.map": "/comicapp/static/js/787.79b19336.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c079093.css",
+    "static/js/main.da70d96f.js"
+  ]
+}
